@@ -80,8 +80,6 @@ ToDoListManager/
 
 ### Main Window
 
-*(example layout – replace with your own screenshot)*
-
 <img width="187" height="188" alt="image" src="https://github.com/user-attachments/assets/a7d79086-ed60-47e1-ab63-3e847161e121" />
 
 ---
